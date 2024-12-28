@@ -1,4 +1,4 @@
-# CSharp Eitim Kampı 301
+# CSharp Egitim Kampı 301
 
 ![Screenshot_1](https://github.com/user-attachments/assets/3cfcde4e-72a3-476e-8e95-e286dec46b62)
 
